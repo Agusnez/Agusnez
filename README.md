@@ -7,4 +7,4 @@ Welcome to my GitHub profile. I use GitHub for my side projects or just to play 
 
 🪚 **Side projects:** I'm currently learning SwiftUI and hopefully will launch an app to the App Store soon. I have managed to launch to the Play Store a basic app that transpose chords/notes to different keys, it helps musicians to alter their songs (I use it a lot with my band) [link to the Android app](https://play.google.com/store/apps/details?id=es.esy.agvs.everynote). 
 
-🏖 **Non work:** I love music! I like to play the guitar to disconnect from work, I even compose and record my own tunes. I also enjoy walking and movies with friends. 
+🏖 **Non work:** I love music! I like to play the guitar to disconnect from work, I even compose and record my own tunes. I also enjoy long walks and spending time with familiy and friends.
